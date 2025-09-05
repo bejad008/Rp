@@ -277,7 +277,7 @@ def main():
     global bot_instance
     
     # Masukkan token bot Telegram Anda di sini
-    TELEGRAM_TOKEN = "YOUR_TELEGRAM_BOT_TOKEN_HERE"
+    TELEGRAM_TOKEN = "8022320384:AAFkG2EvVr0RMqdLeQAK54Jl-oEClbQeMOU"
     
     if TELEGRAM_TOKEN == "YOUR_TELEGRAM_BOT_TOKEN_HERE":
         print("❌ Silakan masukkan TOKEN Telegram bot Anda!")
